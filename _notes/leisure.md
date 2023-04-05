@@ -12,4 +12,4 @@ title: Leisure
 
 <p>The amateur in this case identifies strongly with their pursuit, in some cases perhaps more so than they do with their paid or professional career. </p>
 
-<p>Stebbins links the intense approach towards serious leisure with “psychological flow,” the concept of an optimal mental state popularized by Mihaly Csikszentmihalyi. This intrinsically rewarding affective experience is central to the continued pursuit of a “career” (as Stebbins frames it) in serious leisure, perhaps in ways that go beyond the sensible and into the [[obsessive|obsession]].</p>
+<p>Stebbins links the intense approach towards serious leisure with “psychological flow,” the concept of an optimal mental state popularized by Mihaly Csikszentmihalyi. This intrinsically rewarding affective experience is central to the continued pursuit of a “career” (as Stebbins frames it) in serious leisure, perhaps in ways that go beyond the sensible and into the [[obsessive|Obsession]].</p>
