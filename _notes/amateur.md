@@ -1,6 +1,6 @@
 ---
 title: Amateur
-tags: ["idea"]
+tags: idea
 ---
 
 <p>What is an amateur?</p>
