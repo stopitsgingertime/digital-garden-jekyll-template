@@ -1,5 +1,6 @@
 ---
 title: Commonplace Book
+tags: technology
 ---
 
 During the heady days of the Romantic era, poetry [[obsession|obsessives]] kept commonplace books of their favorite stanzas, and copied them into the albums of friends alongside original verses and commentary. For women of the literary class in America and Britain, commonplacing and album-making (otherwise known as scrapbooking) were elements of a participatory reading culture that took place in domestic spaces as well as at a distance through the sharing of books and the transmission of the excerpts within them.

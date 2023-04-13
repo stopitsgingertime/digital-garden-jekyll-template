@@ -13,6 +13,9 @@
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+
+
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
   {% else %}
@@ -32,6 +35,10 @@
   <meta property="article:author" content="{{ site.url }}/">
   {% endif %}
 
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 
   {% if page.image %}
@@ -46,8 +53,6 @@
     {% endif %}
   </title>
 
-{% if site.tags != "" %}
-  {% include collecttags.html %}
-{% endif %}
-  
+
+
 </head>

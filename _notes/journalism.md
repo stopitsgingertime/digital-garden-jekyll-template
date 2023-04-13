@@ -1,5 +1,6 @@
 ---
 title: Journalism
+tags: community
 ---
 
 The Novelty Job Printing Press, introduced in America 1869, was the technological advancement at the heart of the growth of the amateur journalism community, or “amateurdom” or just “the Dom” as it was often known. 
