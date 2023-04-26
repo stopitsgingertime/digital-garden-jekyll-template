@@ -16,6 +16,20 @@ This is the master's thesis project website of <a href="http://allegrarosenberg.
 
 <hr>
 
+<div class="intro">
+
+  <p>What is an amateur? Today the word has a negative connotation, one of failure or shabbiness or unprofessionalism; yet it derives from the Latin meaning to love or lover—something that should be roundly positive, something to be proud of. </p>
+
+
+<p>My personal interest lies in the methodology of enthusiasm: I want to look at how love and obsession allows for access to new heights and depths of knowledge. The construct of the amateur, and how it has changed throughout history, will be my lens into this phenomenon. </p>
+
+<p>For my MA thesis, I have explored concept of the amateur by creating an Amateur Alphabet,  an A to Z compendium of moments, objects, people, and phenomena that span the history of hobbies, passion projects, and personal enthusiasm.</p>
+
+<p>You can explore the alphabet using the interactive graph below, or by following links directly from page to page.</p>
+
+
+  </div>
+
 
 
 <strong>Artifacts, sorted by most recent updates:</strong>
