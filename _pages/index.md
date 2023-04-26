@@ -5,16 +5,10 @@ id: home
 permalink: /
 ---
 
-# Amateur from A to Z 💥
+# Amateur from A to Z 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 This is the master's thesis project website of <a href="http://allegrarosenberg.com">Allegra Rosenberg</a>, completed for the Experimental Humanities program at NYU. </p>
-
-
-
-{% include notes_graph.html %}
-
-<hr>
 
 <div class="intro">
 
@@ -29,6 +23,12 @@ This is the master's thesis project website of <a href="http://allegrarosenberg.
 
 
   </div>
+
+
+{% include notes_graph.html %}
+
+<hr>
+
 
 
 
