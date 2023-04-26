@@ -1,11 +1,11 @@
 {% assign rawtags = "" %}
-{% for note in site.notes %}
+{% for note in _notes %}
   {% assign ttags = note.tags | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
 
-{% assign site.tags = "" %}
+{% assign _site.tags = "" %}
 {% for tag in rawtags %}
   {% if tag != "" %}
     {% if tags == "" %}
@@ -16,3 +16,4 @@
     {% endunless %}
   {% endif %}
 {% endfor %}
+
