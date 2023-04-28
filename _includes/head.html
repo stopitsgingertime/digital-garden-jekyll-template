@@ -15,8 +15,13 @@
 
   <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=Rakkas&display=swap" rel="stylesheet">
 
-  {% assign rawtags = "" %}
+
+
+{% assign rawtags = "" %}
 {% for note in site.notes %}
   {% assign ttags = note.tags | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}

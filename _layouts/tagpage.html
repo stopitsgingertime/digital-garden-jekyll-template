@@ -3,12 +3,15 @@ layout: default
 ---
 <div class="note">
 <h1>Tag: {{ page.tag }}</h1>
-<ul>
-{% for note in site.tags %}
-  <li><a href="{{ note.url }}">{{ note.title }}</a> 
-   
-  </li>
-{% endfor %}
-</ul>
+
+
+  <div class="wrapper">
+
+
+    <div id="taglinks">
+      <main>{{ content }}</main>
+     </div>
+    </div>
+
 </div>
 <hr>
