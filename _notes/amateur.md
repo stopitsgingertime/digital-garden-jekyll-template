@@ -9,10 +9,12 @@ tags: idea
 
 <p>As Saikat Majumdar and Aarthi Vadde put it in the introduction to their 2020 volume *The Critic as Amateur,* “What would it mean to claim the mantle of the amateur as a way of understanding knowledge better?”</p>
 
-<p>A broad investigation of the amateur requires looking at history, sociology, psychology, literature and media, and technology.</p>
+<p>A broad investigation of the amateur requires looking at history, sociology, psychology, literature and media, and technology; into their broad but underlooked role conditioning structures of use of technology and media (Gitelman 2014).</p>
 
 <p>From perspectives on ideas of [[leisure]] and play to chronicles of the ebbs and flows of various nonprofessional and hobbyist communities, this A to Z will provide a brief introduction to a variety of artifacts, concepts, events, and people which can offer insight into the world of the amateur.</p>
 
 ## Sources
 
-Vadde, Aarthe, and Saikat Majumdar. “Criticism for the Whole Person.” The Critic as Amateur, Bloomsbury Academic, 2020.
+*Gitelman, Lisa. Paper Knowledge. Duke University Press, 2014.*
+
+*Vadde, Aarthe, and Saikat Majumdar. “Criticism for the Whole Person.” The Critic as Amateur, Bloomsbury Academic, 2020.*
