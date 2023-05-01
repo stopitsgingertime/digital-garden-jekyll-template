@@ -8,3 +8,7 @@ The flaneur, that passive but perceptive stroller-through of fin-de-siecle Paris
 Though the flaneur, in their dedication to leisured seriousness, represents a certain kind of amateur, the fact that they are depicted as being solitary and apart-from-the-crowd is in contrast with the ideal social circulation of [[enthusiasm|enthusiastic affect]] that modern amateurism represents, in the context of [[knowledge communities]] and internet cultures. 
 
 But a phrase specifically used in relation to the flaneur, by Benjamin in others, is “amateur detective.” The flaneur was a “man of leisure […] who turned his overdeveloped sensibilities to dwell on mysteries and telling details” (Shaya 2004) and it is this active, invested “detective” sensibility that offsets the non-amateurish tendencies of the flaneur to represent a kind of urban detachment.
+
+## Sources
+
+*Shaya, Gregory. “The Flâneur, the Badaud, and the Making of a Mass Public in France, circa 1860-1910.” American Historical Review, Feb. 2004.*

@@ -10,3 +10,7 @@ One main value is that of “transformative works” — a term indicating works
 The fan is a consummate amateur: [[obsession|obsessed]] and [[enthusiasm|enthusiastic]], often [[youth|young]] and [[gender|female]], they organize into communities based on interest and affinity.
 
 Henry Jenkins refuted the concept of the “couch potato” television fan in his landmark fan studies book *Textual Poachers.* In his view, many viewers who might have been categorized as passive were in fact actively “poaching” storylines, taking the raw material of TV and actively reworking it in a frequently communal and social environment: an environment of passionate discourse and intense imagination. This practice increasingly found material expression in the form of transformative works—fanart and fanfiction. And Jenkins’ framing of viewers as active participants in the culture they enjoyed paved the way for participation in fandom communities to be taken seriously as a type of cultural reception.
+
+## Sources
+
+*Jenkins, Henry. Textual Poachers. Routledge, 2013.*

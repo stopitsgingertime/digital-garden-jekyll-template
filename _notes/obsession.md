@@ -7,6 +7,10 @@ In the 19th century, “abnormal” mental states became a concern to many peopl
 
 One of these states was that of obsession, whose cultural history is traced by Lennard J. Davis in his book of the same name. Observing that modern writers like Flaubert saw their century as characterized by obsession and repetition, Davis identifies the origin of our contemporary concept of obsession in the compulsive graphomaniacs and taxonomists of the Victorian era—as well as in the increased desire to label and categorize all manner of human qualities, in order to place value on them, as in the case of the obsessive eugenicist Francis Galton. 
 
-Many of the most lauded minds of the era demonstrated enthusiasm verging on (and often crossing over int) insanity, and Davis concisely acknowledges that “obsessive behaviors that could lead to madness could at the same time lead to [[Victorians|science]].” 
+Many of the most lauded minds of the era demonstrated enthusiasm verging on (and often crossing over into) insanity, and Davis concisely acknowledges that “obsessive behaviors that could lead to madness could at the same time lead to [[Victorians|science]]" (2009). 
 
 Freud, an iconic obsessive himself, made observations about the libidinal pleasures of thinking too much; the immersive and enjoyable state of obsession is deeply connected to the history of the amateur.
+
+## Sources
+
+*Davis, Lennard J. Obsession: A History. University of Chicago Press, 2009.*

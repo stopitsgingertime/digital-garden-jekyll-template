@@ -13,3 +13,4 @@ permalink: /tag/idea
 * [Neoliberal economy](/neoliberal-economy)
 * [Gender](/gender)
 * [Pornography](/pornography)
+* [Leisure](/leisure)

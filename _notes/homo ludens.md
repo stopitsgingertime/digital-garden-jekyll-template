@@ -10,3 +10,7 @@ He gave the definition of play as: “Play is a free activity standing quite con
 Human activities, from lawsuits to war, are framed by Huizinga as emerging from our instinct to play. Concerned with the increasing complexity of society, he decries seriousness and professionalization as a threat to humanity’s essence: “It now appears that the ever-increasing systematization and discipline of play are going to suppress in the long run something of the pure play-element.” 
 
 The captivating flow which defines devotion to amateur activities has resonance with Huizinga’s conception of play.
+
+## Sources
+
+*Huizinga, Johan. Homo Ludens: A Study of the Play-Element in Culture. The Beacon Press, 1955.*

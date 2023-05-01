@@ -10,3 +10,10 @@ The culture of hams was tight-knit and geeky. A shared culture amongst operators
 In the 1950s, the Madey brothers of New Jersey were teenage hams who ended up being responsible for communications between military installations in Antarctica and the rest of the US. Their indulgent parents had permitted them to build a hundred-foot tall radio antenna in their backyard, which meant that they could receive transmissions from around the world, including from the base under construction at McMurdo Sound, Antarctica—and patch them through to the US phone system, allowing the Navy men to speak to their loved ones from the bottom of the world (Hood, 2009)
 
 Driven by the affinity and enthusiasm that characterizes amateur cultures, ham radio was an early and notable example of how obsession could intersect with technology on a person-to-person level in order to create a participatory network with large impacts.
+
+
+## Sources
+
+*Haring, Kristen. “The ‘Freer Men’ of Ham Radio: How a Technical Hobby Provided Social and Spatial Distance.” Technology and Culture, vol. 44, no. 4, Oct. 2003.*
+
+*Hood, Elaine. “Young Ham Radio Operators Kept IGY Crew in Touch with Friends, Family.” The Antarctic Sun, 30 Jan. 2009, https://antarcticsun.usap.gov/features/1688/* 

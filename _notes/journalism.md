@@ -12,3 +12,9 @@ Amateur newspapers included advertisements for local businesses, letters from re
 Like the community of [[commmonplace book]] creators, amateurdom was an “an affective state as well as a textual commons” (Gitelman 2014), a “public youth culture” which was powered by a strong community history as well as the rise of the “teenager” as an identity which fell in between traditional childhood and adulthood and required its own pastimes, and strong, social self-definitions. 
 
 Some participants in late 19th-century and early 20th-century amateurdom went on to become successful professional authors and journalists; others, including H.P. Lovecraft, brought their experience to bear on the community dynamics of early Golden Age science fiction [[fandom.]]
+
+## Sources
+
+*Gitelman, Lisa. Paper Knowledge. Duke University Press, 2014.*
+
+*Isaac, Jessica. “Youthful Enterprises: Amateur Newspapers and the Pre-History of Adolescence, 1867–1883.” American Periodicals: A Journal of History, Criticism, and Bibliography, vol. 22, no. 2, 2012, pp. 158–77.* 

@@ -7,8 +7,8 @@ permalink: /
 
 # Amateur from A to Z
 
-<p style="padding: 3em 1em; background: #fad7ea; border-radius: 4px;">
-This is the master's thesis project website of <a href="http://allegrarosenberg.com">Allegra Rosenberg</a>, completed for the Experimental Humanities program at NYU. </p>
+<p style="padding: 3em 1em; background: #f7dfec; border-radius: 10px;">
+This is the master's thesis project website of <a href="http://allegrarosenberg.com">Allegra Rosenberg</a>, completed for the Experimental Humanities program at NYU. <br> <br>This project can also be read as a long-form academic paper <a href="/essay"><b>here.</b></a></p>
 
 <div class="intro">
 

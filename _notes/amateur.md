@@ -12,3 +12,7 @@ tags: idea
 <p>A broad investigation of the amateur requires looking at history, sociology, psychology, literature and media, and technology.</p>
 
 <p>From perspectives on ideas of [[leisure]] and play to chronicles of the ebbs and flows of various nonprofessional and hobbyist communities, this A to Z will provide a brief introduction to a variety of artifacts, concepts, events, and people which can offer insight into the world of the amateur.</p>
+
+## Sources
+
+Vadde, Aarthe, and Saikat Majumdar. “Criticism for the Whole Person.” The Critic as Amateur, Bloomsbury Academic, 2020.

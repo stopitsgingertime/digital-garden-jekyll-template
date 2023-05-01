@@ -10,3 +10,7 @@ Underground film, music, art, and literature formed the basis for the avant-gard
 Still, culture as produced by underground labor remains vibrant. Independent artistic scenes, especially queer, digital, and/or leftist ones unbounded by geography, represent the promise of contemporary amateurism. Independent games on itch.io, independent music on Bandcamp, and independent transformative literature on Tumblr and Archive of our Own, all provide a counterbalance (if not actual resistance) to dominant hegemonic cultural regimes. 
 
 With regards to underground cultures, Stephen Burt observes that “We can understand what it means to belong to a particular community by knowing what it means to sell out, to betray” (1998). In the context of amateurism this might have once meant turning “professional,” but with the pressures of the economy bearing down on all participants in amateur or leisure cultures, it can instead mean a betrayal of moral, ethical, or political values which are specific to the communities.
+
+## Sources
+
+*Burt, Stephen. “Review: Amateurs.” Transition, no. 77, 1998.*

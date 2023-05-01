@@ -9,4 +9,12 @@ Prior to the 2000s, music production was a rarefied field, dominated by professi
 
 The development of ADAT technology in the 1990s heralded a new age in digital recording and “began the movement of professional-level multitrack recording out of the major studios and into the homes and garages of independent musicians and producers” (Phillips, 2010). 
 
-But the real game-changer was the DAW. FL Studio, for example, was used widely in demo and/or illegally downloaded versions by producers to create hits in their home. The ability to create and record music almost for free transformed the hierarchy of the industry, and allowed the amateur musician or beatmaker to ascend to the top without needing to kowtow to engineers or labels for studio time. Instrumentalist and hitmaker Steve Lacy famously produced hits for Kanye West on his iPhone, on a mobile version of GarageBand, before upgrading to more traditional DAWs and studio equipment ([Pierce, 2017](https://www.wired.com/2017/04/steve-lacy-iphone-producer/)).
+But the real game-changer was the DAW. FL Studio, for example, was used widely in demo and/or illegally downloaded versions by producers to create hits in their home. The ability to create and record music almost for free transformed the hierarchy of the industry, and allowed the amateur musician or beatmaker to ascend to the top without needing to kowtow to engineers or labels for studio time. Instrumentalist and hitmaker Steve Lacy famously produced hits for Kanye West on his iPhone, on a mobile version of GarageBand, before upgrading to more traditional DAWs and studio equipment (Pierce, 2017).
+
+## Sources
+
+*Jackson, Reed. “The Story of FruityLoops: How a Belgian Porno Game Company Employee Changed Modern Music.” VICE, 11 Dec. 2015, https://www.vice.com/en/article/rnwkvz/fruity-loops-fl-studio-program-used-to-create-trap-music-sound.*
+
+*Phillips, William J. Making Tracks: Digital Recording Technology and the Democratization of Cultural Production. New York University, 2010, https://www.proquest.com/docview/763609104?pq-origsite=gscholar&fromopenview=true.*
+
+*Pierce, David. “The Hot New Hip-Hop Producer Who Does Everything on His IPhone.” WIRED, 14 Apr. 2017, https://www.wired.com/2017/04/steve-lacy-iphone-producer/.*
